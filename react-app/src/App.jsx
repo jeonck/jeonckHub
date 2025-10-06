@@ -18,7 +18,7 @@ const projects = [
   { title: 'Mermaid Diagram Viewer', url: 'https://jeonck.github.io/mermaid-diagram-viewer/', category: 'Development Tools' },
 ]
 
-const categories = ['All', ...new Set(projects.map(p => p.category))].sort()
+const categories = ['All', ...[...new Set(projects.map(p => p.category))].sort()]
 
 function App() {
   const [selectedCategory, setSelectedCategory] = useState('All')

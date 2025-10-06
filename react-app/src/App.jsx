@@ -16,6 +16,10 @@ const projects = [
   { title: 'K8s Manifest Showcase', url: 'https://jeonck.github.io/k8s-manifest-showcase/', category: 'DevOps' },
   { title: 'DevOps Lead Interview', url: 'https://jeonck.github.io/devops-lead-interview/', category: 'Career' },
   { title: 'Mermaid Diagram Viewer', url: 'https://jeonck.github.io/mermaid-diagram-viewer/', category: 'Development Tools' },
+  { title: 'Semiconductor Terminology', url: 'https://jeonck.github.io/semiconword/', category: 'Education' },
+  { title: 'React From Scratch', url: 'https://jeonck.github.io/react-from-scratch/', category: 'Frontend' },
+  { title: 'Critical Thinking Framework', url: 'https://jeonck.github.io/critical-thinking/', category: 'Business' },
+  { title: 'Lean Canvas Generator', url: 'https://jeonck.github.io/LeanCanvas/', category: 'Business' },
 ]
 
 const categories = ['All', ...[...new Set(projects.map(p => p.category))].sort()]

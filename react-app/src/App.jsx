@@ -23,8 +23,8 @@ const projects = [
   { title: 'Grewords', url: 'https://jeonck.github.io/grewords/', category: 'Web Development' },
   { title: 'Project Pro', url: 'https://jeonck.github.io/projectpro/', category: 'Project Mgmt' },
   { title: 'MCP Hub', url: 'https://jeonck.github.io/mcp-hub/', category: 'Web Development' },
-  { title: 'IT Audit Guide', url: 'https://jeonck.github.io/it-audit-guide/', category: 'Web Development' },
-  { title: 'Data Quality Management Guide Portal', url: 'https://jeonck.github.io/data-quality-management-guide-portal/', category: 'Web Development' },
+  { title: 'IT Audit Guide', url: 'https://jeonck.github.io/it-audit-guide/', category: 'QA' },
+  { title: 'Data Quality Management Guide Portal', url: 'https://jeonck.github.io/data-quality-management-guide-portal/', category: 'QA' },
   { title: 'AI Expert Quiz', url: 'https://jeonck.github.io/ai-expert-quiz/', category: 'Education' },
 ]
 

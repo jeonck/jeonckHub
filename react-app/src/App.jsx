@@ -26,6 +26,7 @@ const projects = [
   { title: 'IT Audit Guide', url: 'https://jeonck.github.io/it-audit-guide/', category: 'QA' },
   { title: 'Data Quality Management Guide Portal', url: 'https://jeonck.github.io/data-quality-management-guide-portal/', category: 'QA' },
   { title: 'AI Expert Quiz', url: 'https://jeonck.github.io/ai-expert-quiz/', category: 'Education' },
+  { title: 'IT Audit Word', url: 'https://jeonck.github.io/itauditword/', category: 'Education' },
 ]
 
 const categories = ['All', ...[...new Set(projects.map(p => p.category))].sort()]

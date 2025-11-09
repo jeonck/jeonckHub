@@ -20,6 +20,12 @@ const projects = [
   { title: 'React From Scratch', url: 'https://jeonck.github.io/react-from-scratch/', category: 'Frontend' },
   { title: 'Critical Thinking Framework', url: 'https://jeonck.github.io/critical-thinking/', category: 'Business' },
   { title: 'Lean Canvas Generator', url: 'https://jeonck.github.io/LeanCanvas/', category: 'Business' },
+  { title: 'Grewords', url: 'https://jeonck.github.io/grewords/', category: 'Web Development' },
+  { title: 'Project Pro', url: 'https://jeonck.github.io/projectpro/', category: 'Web Development' },
+  { title: 'MCP Hub', url: 'https://jeonck.github.io/mcp-hub/', category: 'Web Development' },
+  { title: 'IT Audit Guide', url: 'https://jeonck.github.io/it-audit-guide/', category: 'Web Development' },
+  { title: 'Data Quality Management Guide Portal', url: 'https://jeonck.github.io/data-quality-management-guide-portal/', category: 'Web Development' },
+  { title: 'AI Expert Quiz', url: 'https://jeonck.github.io/ai-expert-quiz/', category: 'Education' },
 ]
 
 const categories = ['All', ...[...new Set(projects.map(p => p.category))].sort()]

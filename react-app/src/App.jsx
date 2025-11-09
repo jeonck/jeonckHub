@@ -22,7 +22,7 @@ const projects = [
   { title: 'Lean Canvas Generator', url: 'https://jeonck.github.io/LeanCanvas/', category: 'Business' },
   { title: 'Grewords', url: 'https://jeonck.github.io/grewords/', category: 'Education' },
   { title: 'Project Pro', url: 'https://jeonck.github.io/projectpro/', category: 'Project Mgmt' },
-  { title: 'MCP Hub', url: 'https://jeonck.github.io/mcp-hub/', category: 'Web Development' },
+  { title: 'MCP Hub', url: 'https://jeonck.github.io/mcp-hub/', category: 'AI/ML' },
   { title: 'IT Audit Guide', url: 'https://jeonck.github.io/it-audit-guide/', category: 'QA' },
   { title: 'Data Quality Management Guide Portal', url: 'https://jeonck.github.io/data-quality-management-guide-portal/', category: 'QA' },
   { title: 'AI Expert Quiz', url: 'https://jeonck.github.io/ai-expert-quiz/', category: 'Education' },

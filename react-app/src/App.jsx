@@ -21,7 +21,7 @@ const projects = [
   { title: 'Critical Thinking Framework', url: 'https://jeonck.github.io/critical-thinking/', category: 'Business' },
   { title: 'Lean Canvas Generator', url: 'https://jeonck.github.io/LeanCanvas/', category: 'Business' },
   { title: 'Grewords', url: 'https://jeonck.github.io/grewords/', category: 'Web Development' },
-  { title: 'Project Pro', url: 'https://jeonck.github.io/projectpro/', category: 'Web Development' },
+  { title: 'Project Pro', url: 'https://jeonck.github.io/projectpro/', category: 'Project Mgmt' },
   { title: 'MCP Hub', url: 'https://jeonck.github.io/mcp-hub/', category: 'Web Development' },
   { title: 'IT Audit Guide', url: 'https://jeonck.github.io/it-audit-guide/', category: 'Web Development' },
   { title: 'Data Quality Management Guide Portal', url: 'https://jeonck.github.io/data-quality-management-guide-portal/', category: 'Web Development' },

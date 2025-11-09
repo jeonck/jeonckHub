@@ -1,0 +1,5 @@
+# dependencies
+/react-app/node_modules
+
+# build output
+/react-app/dist
